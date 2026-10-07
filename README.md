@@ -13,4 +13,6 @@ Replicar diseño de app en Flutter (Dart)
 
 ## Parical 2
 
-## Actividad 1 - API ESPN
+### Actividad 1 - API ESPN
+
+### Actividad 2 - Supabase canciones
